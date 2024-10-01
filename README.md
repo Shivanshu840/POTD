@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shivanshu840/POTD/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Shivanshu840/POTD/tree/master/0072-edit-distance) |
+| [0516-longest-palindromic-subsequence](https://github.com/Shivanshu840/POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Shivanshu840/POTD/tree/master/0647-palindromic-substrings) |
 | [1170-shortest-common-supersequence](https://github.com/Shivanshu840/POTD/tree/master/1170-shortest-common-supersequence) |
 | [2755-extra-characters-in-a-string](https://github.com/Shivanshu840/POTD/tree/master/2755-extra-characters-in-a-string) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shivanshu840/POTD/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Shivanshu840/POTD/tree/master/0072-edit-distance) |
+| [0516-longest-palindromic-subsequence](https://github.com/Shivanshu840/POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Shivanshu840/POTD/tree/master/0647-palindromic-substrings) |
 | [1170-shortest-common-supersequence](https://github.com/Shivanshu840/POTD/tree/master/1170-shortest-common-supersequence) |
 | [2755-extra-characters-in-a-string](https://github.com/Shivanshu840/POTD/tree/master/2755-extra-characters-in-a-string) |
