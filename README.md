@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Shivanshu840/POTD/tree/master/0859-design-circular-deque) |
 | [1256-rank-transform-of-an-array](https://github.com/Shivanshu840/POTD/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shivanshu840/POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/Shivanshu840/POTD/tree/master/1694-make-sum-divisible-by-p) |
 | [2755-extra-characters-in-a-string](https://github.com/Shivanshu840/POTD/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shivanshu840/POTD/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Shivanshu840/POTD/tree/master/0432-all-oone-data-structure) |
 | [1256-rank-transform-of-an-array](https://github.com/Shivanshu840/POTD/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shivanshu840/POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/Shivanshu840/POTD/tree/master/1694-make-sum-divisible-by-p) |
 | [2755-extra-characters-in-a-string](https://github.com/Shivanshu840/POTD/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shivanshu840/POTD/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Shivanshu840/POTD/tree/master/0731-my-calendar-ii) |
+| [1694-make-sum-divisible-by-p](https://github.com/Shivanshu840/POTD/tree/master/1694-make-sum-divisible-by-p) |
 ## Two Pointers
 |  |
 | ------- |
