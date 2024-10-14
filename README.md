@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shivanshu840/POTD/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shivanshu840/POTD/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shivanshu840/POTD/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Shivanshu840/POTD/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/Shivanshu840/POTD/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shivanshu840/POTD/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivanshu840/POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shivanshu840/POTD/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shivanshu840/POTD/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Shivanshu840/POTD/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shivanshu840/POTD/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shivanshu840/POTD/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Shivanshu840/POTD/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Math
 |  |
 | ------- |
