@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivanshu840/POTD/tree/master/1370-count-number-of-nice-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shivanshu840/POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Shivanshu840/POTD/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shivanshu840/POTD/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/Shivanshu840/POTD/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/Shivanshu840/POTD/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Shivanshu840/POTD/tree/master/1940-maximum-xor-for-each-query) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shivanshu840/POTD/tree/master/0209-minimum-size-subarray-sum) |
 | [0729-my-calendar-i](https://github.com/Shivanshu840/POTD/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shivanshu840/POTD/tree/master/0731-my-calendar-ii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shivanshu840/POTD/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shivanshu840/POTD/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Design
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shivanshu840/POTD/tree/master/0005-longest-palindromic-substring) |
 | [0567-permutation-in-string](https://github.com/Shivanshu840/POTD/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Shivanshu840/POTD/tree/master/0647-palindromic-substrings) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shivanshu840/POTD/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Shivanshu840/POTD/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shivanshu840/POTD/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shivanshu840/POTD/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivanshu840/POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Shivanshu840/POTD/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shivanshu840/POTD/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shivanshu840/POTD/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shivanshu840/POTD/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/Shivanshu840/POTD/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shivanshu840/POTD/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
