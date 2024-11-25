@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Shivanshu840/POTD/tree/master/0547-number-of-provinces) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -231,4 +232,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shivanshu840/POTD/tree/master/0795-k-th-symbol-in-grammar) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Shivanshu840/POTD/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Shivanshu840/POTD/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Shivanshu840/POTD/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
