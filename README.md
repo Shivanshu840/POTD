@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Shivanshu840/POTD/tree/master/0518-coin-change-ii) |
 | [0729-my-calendar-i](https://github.com/Shivanshu840/POTD/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shivanshu840/POTD/tree/master/0731-my-calendar-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/Shivanshu840/POTD/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/Shivanshu840/POTD/tree/master/0859-design-circular-deque) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivanshu840/POTD/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/Shivanshu840/POTD/tree/master/1002-maximum-width-ramp) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Shivanshu840/POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Shivanshu840/POTD/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Shivanshu840/POTD/tree/master/0647-palindromic-substrings) |
+| [0747-min-cost-climbing-stairs](https://github.com/Shivanshu840/POTD/tree/master/0747-min-cost-climbing-stairs) |
 | [1170-shortest-common-supersequence](https://github.com/Shivanshu840/POTD/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Shivanshu840/POTD/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shivanshu840/POTD/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
