@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shivanshu840/POTD/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Shivanshu840/POTD/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Shivanshu840/POTD/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanshu840/POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0312-burst-balloons](https://github.com/Shivanshu840/POTD/tree/master/0312-burst-balloons) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shivanshu840/POTD/tree/master/0070-climbing-stairs) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shivanshu840/POTD/tree/master/0795-k-th-symbol-in-grammar) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivanshu840/POTD/tree/master/1370-count-number-of-nice-subarrays) |
 ## Backtracking
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Shivanshu840/POTD/tree/master/1036-rotting-oranges) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shivanshu840/POTD/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
