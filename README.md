@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shivanshu840/POTD/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivanshu840/POTD/tree/master/0209-minimum-size-subarray-sum) |
 | [0312-burst-balloons](https://github.com/Shivanshu840/POTD/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/Shivanshu840/POTD/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Shivanshu840/POTD/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Shivanshu840/POTD/tree/master/0518-coin-change-ii) |
 | [0729-my-calendar-i](https://github.com/Shivanshu840/POTD/tree/master/0729-my-calendar-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanshu840/POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Shivanshu840/POTD/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/Shivanshu840/POTD/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/Shivanshu840/POTD/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Shivanshu840/POTD/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shivanshu840/POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Shivanshu840/POTD/tree/master/0518-coin-change-ii) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Shivanshu840/POTD/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Shivanshu840/POTD/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/Shivanshu840/POTD/tree/master/1036-rotting-oranges) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
