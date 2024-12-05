@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shivanshu840/POTD/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1923-sentence-similarity-iii](https://github.com/Shivanshu840/POTD/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shivanshu840/POTD/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Shivanshu840/POTD/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Shivanshu840/POTD/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shivanshu840/POTD/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shivanshu840/POTD/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shivanshu840/POTD/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Shivanshu840/POTD/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shivanshu840/POTD/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Shivanshu840/POTD/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shivanshu840/POTD/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shivanshu840/POTD/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/Shivanshu840/POTD/tree/master/3195-separate-black-and-white-balls) |
