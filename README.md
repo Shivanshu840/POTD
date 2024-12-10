@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Shivanshu840/POTD/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Shivanshu840/POTD/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Shivanshu840/POTD/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/Shivanshu840/POTD/tree/master/1036-rotting-oranges) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Shivanshu840/POTD/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Shivanshu840/POTD/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Shivanshu840/POTD/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Shivanshu840/POTD/tree/master/0547-number-of-provinces) |
 | [3189-find-champion-ii](https://github.com/Shivanshu840/POTD/tree/master/3189-find-champion-ii) |
 ## Matrix
@@ -283,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivanshu840/POTD/tree/master/0070-climbing-stairs) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Shivanshu840/POTD/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
