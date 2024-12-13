@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/0226-invert-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shivanshu840/POTD/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shivanshu840/POTD/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shivanshu840/POTD/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Shivanshu840/POTD/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Shivanshu840/POTD/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shivanshu840/POTD/tree/master/0684-redundant-connection) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/0226-invert-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Recursion
 |  |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shivanshu840/POTD/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shivanshu840/POTD/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shivanshu840/POTD/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Shivanshu840/POTD/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shivanshu840/POTD/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Shivanshu840/POTD/tree/master/0695-max-area-of-island) |
