@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Shivanshu840/POTD/tree/master/0572-subtree-of-another-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Shivanshu840/POTD/tree/master/0572-subtree-of-another-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Recursion
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Shivanshu840/POTD/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/Shivanshu840/POTD/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Shivanshu840/POTD/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Shivanshu840/POTD/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Shivanshu840/POTD/tree/master/0744-network-delay-time) |
@@ -349,4 +352,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivanshu840/POTD/tree/master/0215-kth-largest-element-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Shivanshu840/POTD/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Shivanshu840/POTD/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
