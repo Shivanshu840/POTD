@@ -3,7 +3,7 @@ public:
     
     int maxSubArray(vector<int>& nums) {
         
-        int maxi = nums[0];
+        int maxi = INT_MIN;
         int sum = 0;
 
 
