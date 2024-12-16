@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Shivanshu840/POTD/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2755-extra-characters-in-a-string](https://github.com/Shivanshu840/POTD/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shivanshu840/POTD/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shivanshu840/POTD/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Shivanshu840/POTD/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shivanshu840/POTD/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shivanshu840/POTD/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -238,12 +240,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shivanshu840/POTD/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shivanshu840/POTD/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Shivanshu840/POTD/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shivanshu840/POTD/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivanshu840/POTD/tree/master/0070-climbing-stairs) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shivanshu840/POTD/tree/master/0795-k-th-symbol-in-grammar) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivanshu840/POTD/tree/master/1370-count-number-of-nice-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shivanshu840/POTD/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
 | ------- |
