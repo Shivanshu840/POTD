@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shivanshu840/POTD/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Shivanshu840/POTD/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Shivanshu840/POTD/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Shivanshu840/POTD/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shivanshu840/POTD/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Shivanshu840/POTD/tree/master/0072-edit-distance) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shivanshu840/POTD/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shivanshu840/POTD/tree/master/0070-climbing-stairs) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shivanshu840/POTD/tree/master/0795-k-th-symbol-in-grammar) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivanshu840/POTD/tree/master/1370-count-number-of-nice-subarrays) |
@@ -424,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Shivanshu840/POTD/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shivanshu840/POTD/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivanshu840/POTD/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shivanshu840/POTD/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
