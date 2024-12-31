@@ -1,31 +1,35 @@
 class Solution {
 public:
-    vector<vector<bool>>dp;
-    int countSubstrings(string s) {
-        string str = s;
-        int len = str.size();
-        dp.resize(len+1,vector<bool>(len+1,false));
-        int count = 0;
+    //brute force for this code
+    vector<vector<int>>dp;
 
-        for(int size = 1;size<=len;size++){
+    bool checkPalindrome(int i, int j, string s){
 
-        for(int i = 0; i+size-1<len; i++){
-            int j = i + size -1;
+       if(i>j) return true;
 
-            if(i==j){           // length 1 wala string hai
-                dp[i][j] = true;
-            }
-            else if(i+1==j){    // length 2 wala string hai ye
-                dp[i][j] = (str[i]==str[j]);
-            }
-            else{  // length 2 se jayda wala string hai
-                dp[i][j] = (str[i]==str[j] && dp[i+1][j-1]);
-            }
+       if(dp[i][j]!=-1) return dp[i][j];
 
-            if(dp[i][j]==true) count++;
-        }
+       if(s[i]==s[j]){
+        return dp[i][j] = checkPalindrome(i+1,j-1,s);
+       }
+       return false;
     }
-    return count;
+    int countSubstrings(string s) {
+        int n = s.size();
+        dp.resize(n+1,vector<int>(n+1,-1));
         
+        int count = 0;
+        for(int i = 0;i<s.size();i++){
+            for(int j = i;j<s.size();j++){
+
+                bool ans = checkPalindrome(i,j,s);
+                if(ans){
+                    count++;
+                }
+            }
+        }
+
+
+        return count;
     }
 };
