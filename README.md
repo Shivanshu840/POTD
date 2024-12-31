@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivanshu840/POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Shivanshu840/POTD/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Shivanshu840/POTD/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Shivanshu840/POTD/tree/master/0091-decode-ways) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shivanshu840/POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Shivanshu840/POTD/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Shivanshu840/POTD/tree/master/0647-palindromic-substrings) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Shivanshu840/POTD/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shivanshu840/POTD/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Shivanshu840/POTD/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Shivanshu840/POTD/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanshu840/POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shivanshu840/POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Shivanshu840/POTD/tree/master/0198-house-robber) |
