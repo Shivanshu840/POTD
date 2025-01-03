@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shivanshu840/POTD/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shivanshu840/POTD/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shivanshu840/POTD/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2358-number-of-ways-to-split-array](https://github.com/Shivanshu840/POTD/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shivanshu840/POTD/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shivanshu840/POTD/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shivanshu840/POTD/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivanshu840/POTD/tree/master/1370-count-number-of-nice-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Shivanshu840/POTD/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/Shivanshu840/POTD/tree/master/1940-maximum-xor-for-each-query) |
+| [2358-number-of-ways-to-split-array](https://github.com/Shivanshu840/POTD/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shivanshu840/POTD/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shivanshu840/POTD/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Two Pointers
