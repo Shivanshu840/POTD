@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Shivanshu840/POTD/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/Shivanshu840/POTD/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivanshu840/POTD/tree/master/1370-count-number-of-nice-subarrays) |
+| [1524-string-matching-in-an-array](https://github.com/Shivanshu840/POTD/tree/master/1524-string-matching-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shivanshu840/POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Shivanshu840/POTD/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shivanshu840/POTD/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Shivanshu840/POTD/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shivanshu840/POTD/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shivanshu840/POTD/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1524-string-matching-in-an-array](https://github.com/Shivanshu840/POTD/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shivanshu840/POTD/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/Shivanshu840/POTD/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shivanshu840/POTD/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Shivanshu840/POTD/tree/master/0572-subtree-of-another-tree) |
+| [1524-string-matching-in-an-array](https://github.com/Shivanshu840/POTD/tree/master/1524-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
