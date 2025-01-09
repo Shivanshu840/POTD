@@ -7,18 +7,11 @@ public:
         if(m>n) return false;
 
         string pre = "";
-        vector<string>ans;
 
         for(int i = 0;i<n;i++){
             pre += word[i];
-            ans.push_back(pre);
+            if(pre==str) return true;
         }
-
-        for(int i = 0;i<ans.size();i++){
-
-            if(ans[i]==str) return true;
-        }
-
         return false;
     }
     int prefixCount(vector<string>& words, string pref) {
