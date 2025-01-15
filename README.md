@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Shivanshu840/POTD/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Shivanshu840/POTD/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/Shivanshu840/POTD/tree/master/1002-maximum-width-ramp) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Shivanshu840/POTD/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Shivanshu840/POTD/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/Shivanshu840/POTD/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivanshu840/POTD/tree/master/1370-count-number-of-nice-subarrays) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Shivanshu840/POTD/tree/master/0647-palindromic-substrings) |
 | [0952-word-subsets](https://github.com/Shivanshu840/POTD/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivanshu840/POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Shivanshu840/POTD/tree/master/1032-satisfiability-of-equality-equations) |
 | [1170-shortest-common-supersequence](https://github.com/Shivanshu840/POTD/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Shivanshu840/POTD/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shivanshu840/POTD/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shivanshu840/POTD/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shivanshu840/POTD/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Shivanshu840/POTD/tree/master/0695-max-area-of-island) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Shivanshu840/POTD/tree/master/1032-satisfiability-of-equality-equations) |
 ## Graph
 |  |
 | ------- |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Shivanshu840/POTD/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Shivanshu840/POTD/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shivanshu840/POTD/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Shivanshu840/POTD/tree/master/1032-satisfiability-of-equality-equations) |
 | [3189-find-champion-ii](https://github.com/Shivanshu840/POTD/tree/master/3189-find-champion-ii) |
 ## Matrix
 |  |
