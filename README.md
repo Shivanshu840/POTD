@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Shivanshu840/POTD/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/Shivanshu840/POTD/tree/master/0777-toeplitz-matrix) |
 | [0859-design-circular-deque](https://github.com/Shivanshu840/POTD/tree/master/0859-design-circular-deque) |
+| [0898-transpose-matrix](https://github.com/Shivanshu840/POTD/tree/master/0898-transpose-matrix) |
 | [0952-word-subsets](https://github.com/Shivanshu840/POTD/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivanshu840/POTD/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Shivanshu840/POTD/tree/master/0967-minimum-falling-path-sum) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Shivanshu840/POTD/tree/master/0898-transpose-matrix) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Shivanshu840/POTD/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shivanshu840/POTD/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shivanshu840/POTD/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shivanshu840/POTD/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Shivanshu840/POTD/tree/master/0695-max-area-of-island) |
 | [0777-toeplitz-matrix](https://github.com/Shivanshu840/POTD/tree/master/0777-toeplitz-matrix) |
+| [0898-transpose-matrix](https://github.com/Shivanshu840/POTD/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Shivanshu840/POTD/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Shivanshu840/POTD/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/Shivanshu840/POTD/tree/master/1791-richest-customer-wealth) |
