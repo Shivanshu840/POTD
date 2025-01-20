@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shivanshu840/POTD/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Shivanshu840/POTD/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shivanshu840/POTD/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Shivanshu840/POTD/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Shivanshu840/POTD/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shivanshu840/POTD/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivanshu840/POTD/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shivanshu840/POTD/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Shivanshu840/POTD/tree/master/0898-transpose-matrix) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Shivanshu840/POTD/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shivanshu840/POTD/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shivanshu840/POTD/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shivanshu840/POTD/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Shivanshu840/POTD/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shivanshu840/POTD/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Shivanshu840/POTD/tree/master/0130-surrounded-regions) |
