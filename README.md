@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Shivanshu840/POTD/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Shivanshu840/POTD/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shivanshu840/POTD/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/Shivanshu840/POTD/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Shivanshu840/POTD/tree/master/1036-rotting-oranges) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Shivanshu840/POTD/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Shivanshu840/POTD/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Shivanshu840/POTD/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shivanshu840/POTD/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/Shivanshu840/POTD/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shivanshu840/POTD/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Shivanshu840/POTD/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Shivanshu840/POTD/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Shivanshu840/POTD/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Shivanshu840/POTD/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shivanshu840/POTD/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/Shivanshu840/POTD/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shivanshu840/POTD/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Shivanshu840/POTD/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Shivanshu840/POTD/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Shivanshu840/POTD/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shivanshu840/POTD/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Shivanshu840/POTD/tree/master/0820-find-eventual-safe-states) |
 ## Shortest Path
 |  |
 | ------- |
