@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shivanshu840/POTD/tree/master/0242-valid-anagram) |
 | [0432-all-oone-data-structure](https://github.com/Shivanshu840/POTD/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Shivanshu840/POTD/tree/master/0567-permutation-in-string) |
+| [0889-buddy-strings](https://github.com/Shivanshu840/POTD/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/Shivanshu840/POTD/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivanshu840/POTD/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shivanshu840/POTD/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Shivanshu840/POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Shivanshu840/POTD/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Shivanshu840/POTD/tree/master/0647-palindromic-substrings) |
+| [0889-buddy-strings](https://github.com/Shivanshu840/POTD/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/Shivanshu840/POTD/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivanshu840/POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Shivanshu840/POTD/tree/master/1032-satisfiability-of-equality-equations) |
