@@ -1,53 +1,51 @@
 class Solution {
 public:
-
-void bfs(map<pair<int,int>,bool>& visited,int row, int col,vector<vector<char>>& grid){
+    void solve(vector<vector<char>>& grid,map<pair<int,int>,bool> & visited,int row, int col){
         queue<pair<int,int>>q;
         visited[{row,col}] = true;
         q.push({row,col});
-
+        int n = grid.size();
+        int m = grid[0].size();
         while(!q.empty()){
 
-            auto frontNode = q.front();
+            pair<int,int>p = q.front();
             q.pop();
 
-            int x = frontNode.first;
-            int y = frontNode.second;
-            
+            int x = p.first;
+            int y = p.second;
 
             int dx[] = {-1,0,1,0};
             int dy[] = {0,1,0,-1};
 
-            for(int i = 0; i < 4; i++){
+            for(int i = 0; i<4; i++){
+                int newx = x + dx[i];
+                int newy = y + dy[i];
 
-                int newX = x + dx[i];
-                int newY = y + dy[i];
-
-                if((newX>=0 && newX<grid.size()) && newY>=0 && newY < grid[0].size() && !visited[{newX,newY}] && grid[newX][newY]=='1'){
-
-                    visited[{newX,newY}] = true;
-                    q.push({newX,newY});
+                if(newx>=0 && newx<n && newy>=0 && newy<m && !visited[{newx,newy}]&& grid[newx][newy] == '1'){
+                    q.push({newx,newy});
+                    visited[{newx,newy}] = true;
                 }
             }
         }
+
     }
     int numIslands(vector<vector<char>>& grid) {
 
-        
-        map<pair<int,int>,bool>visited;
-        int count = 0;
+       map<pair<int,int>,bool>visited;
+       int count = 0;
 
-        for(int i = 0; i<grid.size();i++){
-            for(int j = 0; j<grid[0].size();j++){
 
-                if(!visited[{i,j}] && grid[i][j]=='1'){
+       for(int i = 0; i<grid.size();i++){
+        for(int j = 0; j<grid[i].size();j++){
 
-                    bfs(visited,i,j,grid);
-                    count++;
-                }
+            if(!visited[{i,j}] && grid[i][j] == '1'){
+                solve(grid,visited,i,j);
+                count++;
             }
         }
+       }
 
-        return count;
+       return count;
+        
     }
 };
