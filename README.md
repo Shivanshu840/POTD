@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Shivanshu840/POTD/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shivanshu840/POTD/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Shivanshu840/POTD/tree/master/0204-count-primes) |
+| [0390-elimination-game](https://github.com/Shivanshu840/POTD/tree/master/0390-elimination-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shivanshu840/POTD/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Shivanshu840/POTD/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivanshu840/POTD/tree/master/1370-count-number-of-nice-subarrays) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shivanshu840/POTD/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Shivanshu840/POTD/tree/master/0206-reverse-linked-list) |
+| [0390-elimination-game](https://github.com/Shivanshu840/POTD/tree/master/0390-elimination-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shivanshu840/POTD/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Shivanshu840/POTD/tree/master/1013-fibonacci-number) |
 ## Depth-First Search
