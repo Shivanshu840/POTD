@@ -1,52 +1,46 @@
 class Solution {
 public:
-    unordered_map<int, list<int>> adjList;
+    vector<int> parent, rank;
 
-    vector<int> isCycle(int src, map<int, bool>& visited) {
-        map<int, int> parent;
-        queue<int> q;
-        q.push(src);
-        visited[src] = true;
-        parent[src] = -1;
+    int find(int x) {
+        if (parent[x] == x) return x;
+        return parent[x] = find(parent[x]); // Path compression
+    }
 
-        while (!q.empty()) {
-            int frontNode = q.front();
-            q.pop();
+    void dsu(int x, int y) {
+        int parX = find(x);
+        int parY = find(y);
 
-            for (auto nbr : adjList[frontNode]) {
-                if (!visited[nbr]) {
-                    parent[nbr] = frontNode;
-                    visited[nbr] = true;
-                    q.push(nbr);
-                } 
-                // If nbr is visited and it's not the parent of frontNode, cycle detected
-                else if (visited[nbr] && parent[frontNode] != nbr) {
-                    return {frontNode, nbr};
-                }
-            }
+        if (parX == parY) return;
+
+        if (rank[parX] > rank[parY]) {
+            parent[parY] = parX;
+        } else if (rank[parY] > rank[parX]) {
+            parent[parX] = parY;
+        } else {
+            parent[parX] = parY;
+            rank[parY]++;
         }
-
-        return {};
     }
 
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
-        // Build the graph using adjacency list
-        for (int i = 0; i < edges.size(); i++) {
-            int u = edges[i][0];
-            int v = edges[i][1];
+        int n = edges.size();
+        parent.resize(n + 1); // Fix: Use n+1 for 1-based indexing
+        rank.resize(n + 1, 0);
 
-            adjList[u].push_back(v);
-            adjList[v].push_back(u);
-
-            map<int, bool> visited;
-
-            // graph bnane wakt hee check karlo cycle banega ya nhii
-            vector<int> cycleEdge = isCycle(u, visited);
-            if (!cycleEdge.empty()) {
-                return {u, v};
-            }
+        for (int i = 1; i <= n; i++) { 
+            parent[i] = i;
         }
 
-        return {};
+        for (auto& edge : edges) {
+            int u = edge[0], v = edge[1];
+
+            if (find(u) == find(v)) { 
+                return {u, v};
+            }
+            dsu(u, v);
+        }
+
+        return {}; // Should never reach here in a valid input
     }
 };
