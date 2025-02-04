@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Shivanshu840/POTD/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Shivanshu840/POTD/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shivanshu840/POTD/tree/master/0064-minimum-path-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shivanshu840/POTD/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivanshu840/POTD/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanshu840/POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Shivanshu840/POTD/tree/master/0130-surrounded-regions) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shivanshu840/POTD/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Shivanshu840/POTD/tree/master/0155-min-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivanshu840/POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Shivanshu840/POTD/tree/master/1002-maximum-width-ramp) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shivanshu840/POTD/tree/master/0084-largest-rectangle-in-histogram) |
 | [1002-maximum-width-ramp](https://github.com/Shivanshu840/POTD/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shivanshu840/POTD/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Heap (Priority Queue)
