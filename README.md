@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Shivanshu840/POTD/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Shivanshu840/POTD/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Shivanshu840/POTD/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Shivanshu840/POTD/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Shivanshu840/POTD/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/Shivanshu840/POTD/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/Shivanshu840/POTD/tree/master/0729-my-calendar-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shivanshu840/POTD/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivanshu840/POTD/tree/master/0242-valid-anagram) |
 | [0432-all-oone-data-structure](https://github.com/Shivanshu840/POTD/tree/master/0432-all-oone-data-structure) |
+| [0496-next-greater-element-i](https://github.com/Shivanshu840/POTD/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Shivanshu840/POTD/tree/master/0567-permutation-in-string) |
 | [0889-buddy-strings](https://github.com/Shivanshu840/POTD/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/Shivanshu840/POTD/tree/master/0952-word-subsets) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivanshu840/POTD/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shivanshu840/POTD/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Shivanshu840/POTD/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Shivanshu840/POTD/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivanshu840/POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Shivanshu840/POTD/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shivanshu840/POTD/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivanshu840/POTD/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shivanshu840/POTD/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/Shivanshu840/POTD/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/Shivanshu840/POTD/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shivanshu840/POTD/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Heap (Priority Queue)
