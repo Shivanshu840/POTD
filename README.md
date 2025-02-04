@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Shivanshu840/POTD/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shivanshu840/POTD/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivanshu840/POTD/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Shivanshu840/POTD/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivanshu840/POTD/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanshu840/POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Shivanshu840/POTD/tree/master/0130-surrounded-regions) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Shivanshu840/POTD/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shivanshu840/POTD/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Shivanshu840/POTD/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Shivanshu840/POTD/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Shivanshu840/POTD/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanshu840/POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shivanshu840/POTD/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivanshu840/POTD/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Shivanshu840/POTD/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Shivanshu840/POTD/tree/master/0155-min-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivanshu840/POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Shivanshu840/POTD/tree/master/1002-maximum-width-ramp) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivanshu840/POTD/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Shivanshu840/POTD/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/Shivanshu840/POTD/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shivanshu840/POTD/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Heap (Priority Queue)
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Shivanshu840/POTD/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Shivanshu840/POTD/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shivanshu840/POTD/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Shivanshu840/POTD/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Shivanshu840/POTD/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shivanshu840/POTD/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Shivanshu840/POTD/tree/master/0695-max-area-of-island) |
