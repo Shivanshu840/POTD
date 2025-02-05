@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Shivanshu840/POTD/tree/master/0777-toeplitz-matrix) |
 | [0859-design-circular-deque](https://github.com/Shivanshu840/POTD/tree/master/0859-design-circular-deque) |
 | [0898-transpose-matrix](https://github.com/Shivanshu840/POTD/tree/master/0898-transpose-matrix) |
+| [0943-sum-of-subarray-minimums](https://github.com/Shivanshu840/POTD/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/Shivanshu840/POTD/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivanshu840/POTD/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Shivanshu840/POTD/tree/master/0967-minimum-falling-path-sum) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Shivanshu840/POTD/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shivanshu840/POTD/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shivanshu840/POTD/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0943-sum-of-subarray-minimums](https://github.com/Shivanshu840/POTD/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Shivanshu840/POTD/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Shivanshu840/POTD/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Shivanshu840/POTD/tree/master/1170-shortest-common-supersequence) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Shivanshu840/POTD/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Shivanshu840/POTD/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shivanshu840/POTD/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/Shivanshu840/POTD/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivanshu840/POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Shivanshu840/POTD/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shivanshu840/POTD/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Shivanshu840/POTD/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Shivanshu840/POTD/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shivanshu840/POTD/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/Shivanshu840/POTD/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Shivanshu840/POTD/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shivanshu840/POTD/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Heap (Priority Queue)
