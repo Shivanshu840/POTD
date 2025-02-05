@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shivanshu840/POTD/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shivanshu840/POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Shivanshu840/POTD/tree/master/1694-make-sum-divisible-by-p) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shivanshu840/POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shivanshu840/POTD/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2104-operations-on-tree](https://github.com/Shivanshu840/POTD/tree/master/2104-operations-on-tree) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Shivanshu840/POTD/tree/master/2300-construct-string-with-repeat-limit) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Shivanshu840/POTD/tree/master/1524-string-matching-in-an-array) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Shivanshu840/POTD/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shivanshu840/POTD/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shivanshu840/POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Shivanshu840/POTD/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shivanshu840/POTD/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shivanshu840/POTD/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shivanshu840/POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shivanshu840/POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Shivanshu840/POTD/tree/master/2300-construct-string-with-repeat-limit) |
 ## Sorting
 |  |
