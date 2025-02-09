@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Shivanshu840/POTD/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/Shivanshu840/POTD/tree/master/0777-toeplitz-matrix) |
 | [0859-design-circular-deque](https://github.com/Shivanshu840/POTD/tree/master/0859-design-circular-deque) |
+| [0876-hand-of-straights](https://github.com/Shivanshu840/POTD/tree/master/0876-hand-of-straights) |
 | [0898-transpose-matrix](https://github.com/Shivanshu840/POTD/tree/master/0898-transpose-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shivanshu840/POTD/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/Shivanshu840/POTD/tree/master/0952-word-subsets) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Shivanshu840/POTD/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Shivanshu840/POTD/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Shivanshu840/POTD/tree/master/0567-permutation-in-string) |
+| [0876-hand-of-straights](https://github.com/Shivanshu840/POTD/tree/master/0876-hand-of-straights) |
 | [0889-buddy-strings](https://github.com/Shivanshu840/POTD/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/Shivanshu840/POTD/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivanshu840/POTD/tree/master/0966-binary-subarrays-with-sum) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shivanshu840/POTD/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shivanshu840/POTD/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shivanshu840/POTD/tree/master/0451-sort-characters-by-frequency) |
+| [0876-hand-of-straights](https://github.com/Shivanshu840/POTD/tree/master/0876-hand-of-straights) |
 | [1256-rank-transform-of-an-array](https://github.com/Shivanshu840/POTD/tree/master/1256-rank-transform-of-an-array) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Shivanshu840/POTD/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Shivanshu840/POTD/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/Shivanshu840/POTD/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivanshu840/POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Shivanshu840/POTD/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shivanshu840/POTD/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
