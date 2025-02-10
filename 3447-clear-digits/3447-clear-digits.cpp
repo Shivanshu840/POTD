@@ -1,25 +1,15 @@
 class Solution {
 public:
     string clearDigits(string s) {
-       // Brute Force 
-        stack<char>st;
-        string str = "";
+        
+        string str;
 
         for(int i = 0; i<s.size();i++){
 
-            if(isalpha(s[i])) st.push(s[i]);
-            else{
-                st.pop();
-            }
+            if(isalpha(s[i])) str.push_back(s[i]);
+            else if(!str.empty()) str.pop_back();
         }
 
-        while(!st.empty()){
-            str.push_back(st.top());
-            st.pop();
-        }
-
-        reverse(str.begin(),str.end());
         return str;
-
     }
 };
