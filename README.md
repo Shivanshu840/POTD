@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Shivanshu840/POTD/tree/master/3195-separate-black-and-white-balls) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shivanshu840/POTD/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shivanshu840/POTD/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3447-clear-digits](https://github.com/Shivanshu840/POTD/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shivanshu840/POTD/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shivanshu840/POTD/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shivanshu840/POTD/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/Shivanshu840/POTD/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Shivanshu840/POTD/tree/master/0898-transpose-matrix) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Shivanshu840/POTD/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shivanshu840/POTD/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/Shivanshu840/POTD/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shivanshu840/POTD/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
