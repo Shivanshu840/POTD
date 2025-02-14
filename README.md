@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Shivanshu840/POTD/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/Shivanshu840/POTD/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivanshu840/POTD/tree/master/1370-count-number-of-nice-subarrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Shivanshu840/POTD/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/Shivanshu840/POTD/tree/master/1524-string-matching-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shivanshu840/POTD/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shivanshu840/POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Shivanshu840/POTD/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shivanshu840/POTD/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Shivanshu840/POTD/tree/master/0859-design-circular-deque) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Shivanshu840/POTD/tree/master/1477-product-of-the-last-k-numbers) |
 | [2104-operations-on-tree](https://github.com/Shivanshu840/POTD/tree/master/2104-operations-on-tree) |
 ## Segment Tree
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Shivanshu840/POTD/tree/master/0731-my-calendar-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivanshu840/POTD/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivanshu840/POTD/tree/master/1370-count-number-of-nice-subarrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Shivanshu840/POTD/tree/master/1477-product-of-the-last-k-numbers) |
 | [1694-make-sum-divisible-by-p](https://github.com/Shivanshu840/POTD/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shivanshu840/POTD/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Shivanshu840/POTD/tree/master/1940-maximum-xor-for-each-query) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/Shivanshu840/POTD/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Shivanshu840/POTD/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivanshu840/POTD/tree/master/1370-count-number-of-nice-subarrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Shivanshu840/POTD/tree/master/1477-product-of-the-last-k-numbers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shivanshu840/POTD/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
@@ -638,4 +642,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shivanshu840/POTD/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Shivanshu840/POTD/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
