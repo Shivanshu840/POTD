@@ -1,36 +1,51 @@
 class Solution {
 public:
-    vector<vector<string>> finalAns;
+    vector<int> NQ;
+    vector<vector<int>> res;
     int N;
 
-    bool isValid(vector<string>& board, int row, int col) {
+    bool isValid(int row, int col) {
         for (int i = 0; i < row; i++) {
-            if (board[i][col] == 'Q') return false;
-            if (col - (row - i) >= 0 && board[i][col - (row - i)] == 'Q') return false;
-            if (col + (row - i) < N && board[i][col + (row - i)] == 'Q') return false;
+            int pr = i;
+            int pc = NQ[i];
+            if (pc == col || abs(pc - col) == abs(pr - row)) {
+                return false;
+            }
         }
         return true;
     }
 
-    void solve(vector<string>& board, int level) {
+    void solve(int level) {
         if (level == N) {
-            finalAns.push_back(board);
+            res.push_back(NQ);
             return;
         }
-        
-        for (int i = 0; i < N; i++) {
-            if (isValid(board, level, i)) {
-                board[level][i] = 'Q';
-                solve(board, level + 1);
-                board[level][i] = '.';
+
+        for (int i = 0; i < N; i++) {  // 0-based indexing
+            if (isValid(level, i)) {
+                NQ[level] = i;
+                solve(level + 1);
+                NQ[level] = -1;
             }
         }
     }
 
     vector<vector<string>> solveNQueens(int n) {
         N = n;
-        vector<string> board(N, string(N, '.'));
-        solve(board, 0);
+        NQ.resize(N, -1);
+        solve(0);
+
+        vector<vector<string>> finalAns;
+        for (auto& itr : res) {
+            vector<string> board;
+            for (int row = 0; row < n; row++) {
+                string str(n, '.');
+                str[itr[row]] = 'Q';
+                board.push_back(str);
+            }
+            finalAns.push_back(board);
+        }
+
         return finalAns;
     }
 };
