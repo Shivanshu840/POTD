@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivanshu840/POTD/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Shivanshu840/POTD/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Shivanshu840/POTD/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Shivanshu840/POTD/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shivanshu840/POTD/tree/master/0053-maximum-subarray) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Shivanshu840/POTD/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Shivanshu840/POTD/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/Shivanshu840/POTD/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/Shivanshu840/POTD/tree/master/0813-all-paths-from-source-to-target) |
