@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shivanshu840/POTD/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shivanshu840/POTD/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Shivanshu840/POTD/tree/master/2358-number-of-ways-to-split-array) |
+| [2447-merge-similar-items](https://github.com/Shivanshu840/POTD/tree/master/2447-merge-similar-items) |
 | [2465-shifting-letters-ii](https://github.com/Shivanshu840/POTD/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivanshu840/POTD/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shivanshu840/POTD/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shivanshu840/POTD/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2104-operations-on-tree](https://github.com/Shivanshu840/POTD/tree/master/2104-operations-on-tree) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Shivanshu840/POTD/tree/master/2300-construct-string-with-repeat-limit) |
+| [2447-merge-similar-items](https://github.com/Shivanshu840/POTD/tree/master/2447-merge-similar-items) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivanshu840/POTD/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shivanshu840/POTD/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Shivanshu840/POTD/tree/master/2755-extra-characters-in-a-string) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Shivanshu840/POTD/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shivanshu840/POTD/tree/master/0731-my-calendar-ii) |
+| [2447-merge-similar-items](https://github.com/Shivanshu840/POTD/tree/master/2447-merge-similar-items) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Shivanshu840/POTD/tree/master/1256-rank-transform-of-an-array) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Shivanshu840/POTD/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Shivanshu840/POTD/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2447-merge-similar-items](https://github.com/Shivanshu840/POTD/tree/master/2447-merge-similar-items) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivanshu840/POTD/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shivanshu840/POTD/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shivanshu840/POTD/tree/master/2581-divide-players-into-teams-of-equal-skill) |
